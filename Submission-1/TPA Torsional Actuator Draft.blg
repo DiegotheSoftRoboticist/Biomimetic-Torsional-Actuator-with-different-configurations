@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TPA Torsional Actuator Draft.aux
+The style file: asmems4.bst
+Database file #1: ../../../LITERATURE/ALL_REFS.bib
+You've used 9 entries,
+            1984 wiz_defined-function locations,
+            549 strings with 5884 characters,
+and the built_in function-call counts, 3367 in all, are:
+= -- 314
+> -- 150
+< -- 0
++ -- 56
+- -- 47
+* -- 247
+:= -- 460
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 162
+empty$ -- 281
+format.name$ -- 47
+if$ -- 787
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 9
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 136
+stack$ -- 0
+substring$ -- 284
+swap$ -- 96
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 28
+width$ -- 10
+write$ -- 101

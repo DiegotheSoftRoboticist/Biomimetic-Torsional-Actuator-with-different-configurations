@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Twisted Polyer Actuator Model Final Draft 7_14.aux
+The style file: asmems4.bst
+Database file #1: ../../../LITERATURE/ALL_REFS.bib
+You've used 7 entries,
+            1984 wiz_defined-function locations,
+            537 strings with 5729 characters,
+and the built_in function-call counts, 3119 in all, are:
+= -- 277
+> -- 175
+< -- 0
++ -- 63
+- -- 56
+* -- 245
+:= -- 440
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 140
+empty$ -- 238
+format.name$ -- 56
+if$ -- 717
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 38
+num.names$ -- 7
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 124
+stack$ -- 0
+substring$ -- 260
+swap$ -- 86
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 26
+width$ -- 8
+write$ -- 81
